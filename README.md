@@ -1,5 +1,10 @@
 # Tech-Blog-with-Model-View-Controller-MVC-
 
+##Create packageJson file
+<pre>
+npm init
+</pre>
+
 ##Server setup steps when seeding database with a JavaScript file:
 
 1. Set login information in .env file
