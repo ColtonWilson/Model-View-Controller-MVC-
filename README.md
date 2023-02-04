@@ -97,7 +97,7 @@ npm install dotenv --save
 npm install bcrypt
 </pre>
 
-14. Install Expree-session
+14. Install Express-session
 <pre>
 npm install express-session
 </pre>
